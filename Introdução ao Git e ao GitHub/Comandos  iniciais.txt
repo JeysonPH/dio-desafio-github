@@ -1,0 +1,40 @@
+OBS: existem variações esses comandos( podemos direcionaalos e\ou especificar suas funções )
+
+Exemplo: em vez de listar tudo q está no disco c, podemos fazer: 
+cd/
+dir
+fazendo isso navegaremos apenas pelas pastar do disco c, isso pode ser feito pra qualquer pasta
+
+Comandos Windows:
+
+dir    -> listar pastas
+ 
+cd /    -> navega entre pastas 
+
+cd ..    -> para retroceder um passo na navegação 
+
+cls       ->  Limpar a tela 
+
+mkdir     -> cria uma pasta
+
+echo   -> printa na tela de volta um texto que você escreve
+
+del -> deleta arquivos
+
+rmdir /s /q -> deleta pasta 
+
+Comandos Linux:
+
+ls-> listar pastas
+
+cd /    -> navega entre pastas 
+
+cd ..    -> para retroceder um passo na navegação 
+
+clear       ->  Limpar a tela 
+
+mkdir     -> cria uma pasta 
+
+echo   -> printa na tela de volta um texto que você escreve
+
+rm -rf  > deleta pasta 
